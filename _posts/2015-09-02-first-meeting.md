@@ -7,7 +7,7 @@ rsvp: https://www.facebook.com/events/459408244231758/
 
 To start of Maptime in Durham, let's have the first informal gathering to see who is interested. We can talk about maps we like to create or look at.
 
-* Date: Wednesday 5th September 2015
+* Date: Wednesday 2nd September 2015
 * Time: 6pm to 7:45pm, or as late as the conversation goes
 * Location: The Library Durham (also known as Varsity), Saddler Street.
 * Co-ordinates: 54.7756, -1.5745.
