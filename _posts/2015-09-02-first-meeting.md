@@ -5,7 +5,7 @@ title: Meetup event
 rsvp: https://www.facebook.com/events/459408244231758/
 ---
 
-To start of Maptime in Durham, let's have the first informal gathering to see who is interested. We can talk about maps we like to create or look at.
+To start off Maptime in Durham, let's have the first informal gathering to see who is interested. We can talk about maps we like to create or look at.
 
 * Date: Wednesday 2nd September 2015
 * Time: 6pm to 7:45pm, or as late as the conversation goes
