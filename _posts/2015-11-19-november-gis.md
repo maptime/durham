@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: November Meetup
+title: November Meetup, GIS
 rsvp: http://www.eventbrite.co.uk/e/maptime-november-gis-tickets-19421575455
 ---
 
