@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: December Meetup
+title: December - Jerry Mapping!
 rsvp: https://www.eventbrite.co.uk/e/maptime-durham-december-tickets-19421613569
 ---
 
@@ -13,6 +13,8 @@ A time in December to meet again informally and talk about maps. If you book a "
 * Co-ordinates: 54.7756, -1.5745.
 * How to find us: Table 2 at the front, maps on the table!
 
-The theme for December is still to be decided (if we continue doing themes). Possible options are: Mapping in humanitarian situations; Maps and art. Come along in November to discuss which we do, or suggest other themes.
+For our December meetup we will discuss "Jerry Mapping", and then do some! To create a map of an imaginary place, [Jerry Gretzinger](http://www.jerrysmap.com/) illustrates a single square of the map. Picking from a shuffled deck of cards decides in which direction he will add a new square and what it will contain (a village, mountains, a city...). You don't need artistic skills or mapping knowledge, you can just come along to listen and chat about what Jerry Mapping and encourage each other. Gregory will bring some pencils and paper to share, bring your own materials if you wish.
 
-The Library is a good place to get a beer, cider, tea, coffee, or even a smoothie, and there's free wifi.
+Purchases not required in our group but The Library is a good place to get a beer, cider, tea, coffee, or even a smoothie, and there's free wifi. Food is also available.
+
+After December, we're considering switching the group to meeting every 2 months, a date in Feburary is yet to be decided.
